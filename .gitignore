@@ -1,0 +1,7 @@
+**/logs
+.idea/
+.venv*/
+.ipynb_checkpoints
+backup/
+__pycache__/
+prep_data/
